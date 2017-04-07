@@ -1,0 +1,57 @@
+body {
+margin:0px;
+background-position:0px 0px;
+background-image:url(logo_tlo.png);
+background-repeat:no-repeat;
+background-color:black;
+}
+#yah {
+background-image:url(jt_tlo.png);
+background-repeat:repeat-x;
+background-position:0px 0px;
+height:35px;
+margin-left:284px;
+line-height:30px;
+}
+#menu {
+background-image:url(menu_tlo.png);
+background-repeat:repeat-y;
+background-position:120px 100px;
+border:1px solid black;
+margin-top:254px;
+float:left;
+width:200px;
+}
+h2 {
+margin:0px;
+background-image:url(luk_tlo.png);
+background-position:120px 0px;
+background-repeat:no-repeat;
+background-color:black;
+height:71px;
+}
+* {
+color:white;
+}
+.link {
+display:block;
+margin-left:5px;
+}
+.link:hover {
+margin-left:10px;
+}
+#copy {
+font-size:10px;
+width:124px;
+padding-bottom:10px;
+margin-bottom:0px;
+border-bottom:3px solid blue;
+}
+#all {
+margin-left:300px;
+}
+.nav {
+
+	 background-color: #333;
+    overflow: hidden;
+}
